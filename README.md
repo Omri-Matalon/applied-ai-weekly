@@ -6,7 +6,7 @@ Most AI content tells you what happened. This repo is about what you can *do* wi
 
 Each week covers the most significant breakthroughs in agentic and generative AI — with publication-grade visual abstracts, runnable Google Colab notebooks, and live Hugging Face demos you can interact with in your browser. No setup. No copy-pasting boilerplate. Just open and run.
 
-Written by [Omri Matalon](https://www.linkedin.com/in/omri-matalon), SVP R&D at [QuantHealth](https://www.quanthealth.ai) — at the intersection of medicine, biomedical research, and applied AI engineering.
+Written by [Omri Matalon](https://www.linkedin.com/in/omri-matalon-phd-068868146/), SVP R&D at [QuantHealth](https://www.quanthealth.ai) — at the intersection of medicine, biomedical research, and applied AI engineering.
 
 ---
 
@@ -54,7 +54,7 @@ Each week's interactive demo is deployed as a live Hugging Face Space. Links are
 
 ## Follow along
 
-New posts every week on [LinkedIn](https://www.linkedin.com/in/omri-matalon). Each post includes the highlights, both deep dives, and direct links to the notebook and demo.
+New posts every week on [LinkedIn](https://www.linkedin.com/in/omri-matalon-phd-068868146/). Each post includes the highlights, both deep dives, and direct links to the notebook and demo.
 
 If something is broken, unclear, or you want to suggest a topic — open an issue. Happy to hear from you.
 
